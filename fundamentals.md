@@ -79,7 +79,7 @@ git
 - [ ] Discuss amongst learners
 - [ ] Utilise slack to ask tech team
 
-[Now that you've had a scope into what I've been learning. Get to know me!](black-codher-bootcamp-2022-daly/unit-01-command-line-and-git-assessment-MoniqueOg/PROFILE.md)<!--test markdown link-->
+[Now that you've had a scope into what I've been learning. Get to know me!](black-codher-bootcamp-2022-daly/unit-01-command-line-and-git-assessment-MoniqueOg/PROFILE.md)<!--find out how to make link pull from a different repo-->
 
 <sup>  Black Codher Student
  | Monique Ogunkeyede </sup>
