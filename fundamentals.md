@@ -12,7 +12,7 @@ During the first Empowerment evening I learnt new termonology such as 'Blue Pill
 ### Windows Technical set up and tools 🛠️
 configured linux, syncing wsl visual studio 
 
-### the [Agile Manifesto](https://agilemanifesto.org/principles.html)
+### The [Agile Manifesto](https://agilemanifesto.org/principles.html)
 These are 12 principles that can be summarised into 4 values these are:
 - Individuals and interactions over processes and tools 
 - working software over comprehensive documentation
@@ -43,9 +43,9 @@ team without pm       | requires pm
 
 some examples of agile are: scrum, <!--fill this out with examples of frameworks-->
 
-<!--###Developer roles and their differences
+## Developer roles and their differences
  learned about different areas of software development software engineering,  web development, devops engineer, mobile application, desktop development
-
+<!--change format and wording to look neat -->
 
 explaining the difference between front-end(html,css,js) and back-end development (python,node.js,js)and examples
  
