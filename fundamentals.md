@@ -49,10 +49,10 @@ some examples of agile are: scrum, <!--fill this out with examples of frameworks
 
 explaining the difference between front-end(html,css,js) and back-end development (python,node.js,js)and examples
  
-planning poker
+### planning poker
 consensus based agile estimating and planning technique
 
-source control
+### source control
 tracking and making changes to source code, can be uused to make changes to original source code revert changes and resolve mistakes also referred to as version control revision control or source code managment
 -->
 
@@ -60,11 +60,13 @@ tracking and making changes to source code, can be uused to make changes to orig
 command line is a user interface that is navigated by typing command at prompts instead of a mouse.
  ##### git vs github
  
-so far i am aware of different command line instructions in order to carry out certian functions 
+- so far i am aware of different command line instructions in order to carry out certian functions 
 with git i am aware of the functions git command  init add merge pull help
 git 
 
-learned different types of local and global
+- offline and online 
+
+- learned different types of local and global
 
 ## Challenging Topics
 -git/bash commands and order -f, -v, -b, push, pull
