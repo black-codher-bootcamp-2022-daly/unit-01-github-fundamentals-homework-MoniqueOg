@@ -5,9 +5,9 @@
 
 <img src="https://pbs.twimg.com/media/FXDvWHDWYAAKj2a?format=jpg&name=large" href="picture tiwa and her book" width="150"> <img src="https://media-exp1.licdn.com/dms/image/C4E22AQEhH8ZESVfkhQ/feedshare-shrink_1280/0/1661474729214?e=1664409600&v=beta&t=I0mf3dvrrrllhoa5kibjrW-YeQn49ShBAtgOc3HZsVI" href="empoverment evening pic" width="300">
 
-<!--space pictures apart-->
 
-During the first Empowerment evening I learnt new termonology such as 'Blue Pill' and '' this in person event was particulaly impactful on me because i was able to meet mentors students and people on paths different to mine, during the meeting listening to tiwa "confident and killing it" was a practical guide to overcoming fear and unlocking potential as someone who suffers from severe anxiety hearing her story in particular made a big impact on me spoke about comfidence and manifestation using worded moodboards, inspiring story about another speaker who spoke about coming from low income background becoming an entrepreneur of a successful business
+
+During the first Empowerment evening I learnt new termonology such as 'Blue Pill' and '' this in person event was particulaly impactful on me as I was able to meet mentors, other students and people on paths different to mine. During the meeting listening to Tiwa, Author of the book "Confident and Killing it" a practical guide to overcoming fear and unlocking potential; as someone who suffers from severe anxiety hearing her story in particular helped me realise mindset changes your whole perception as she spoke about comfidence and manifestation using worded moodboards.<!-- inspiring story about another speaker who spoke about coming from low income background becoming an entrepreneur of a successful business-->
 
 ### Windows Technical set up and tools 🛠️
 configured linux, syncing wsl visual studio 
