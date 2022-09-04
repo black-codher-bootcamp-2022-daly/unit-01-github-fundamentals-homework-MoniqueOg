@@ -51,14 +51,14 @@ explaining the difference between front-end(html,css,js) and back-end developmen
  
 ### Planning Poker
  <img src="https://www.mountaingoatsoftware.com/uploads/blog/poker-discussion.png" href="planning poker pic" width="200">
- consensus based agile estimating and planning technique
+ Consensus based agile estimating and planning technique.
 
 ### Source Control
-tracking and making changes to source code, can be uused to make changes to original source code revert changes and resolve mistakes also referred to as version control revision control or source code managment
+Tracking and making changes to source code, can be uused to make changes to original source code revert changes and resolve mistakes also referred to as version control revision control or source code managment.
 -->
 
 ## Command Line and Git(hub)
-command line is a user interface that is navigated by typing command at prompts instead of a mouse.
+Command line is a user interface that is navigated by typing command at prompts instead of a mouse.
  #### git vs github
  
 - so far i am aware of different command line instructions in order to carry out certian functions 
