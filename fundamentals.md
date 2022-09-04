@@ -64,9 +64,7 @@ Command line is a user interface that is navigated by typing command at prompts 
 - so far i am aware of different command line instructions in order to carry out certian functions 
 with git i am aware of the functions git command  init add merge pull help
 git 
-
 - offline and online 
-
 - learned different types of local and global
 
 ## Challenging Topics
