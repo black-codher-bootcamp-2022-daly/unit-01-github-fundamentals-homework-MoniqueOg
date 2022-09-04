@@ -25,8 +25,8 @@ During this sub-module I learned the importance of clear concise steps this help
 >> 2. Analysis
 >>> 3. Design
 >>>> 4. Implementation
->>>> 5. Maintenence
->>>>> 6. Testing and Intergration <!--write definitions-->
+>>>>> 5. Maintenence
+>>>>>> 6. Testing and Intergration <!--write definitions-->
  
  #### (SDLC) Pros
 - lowers costs 
