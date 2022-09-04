@@ -70,8 +70,8 @@ git
 - learned different types of local and global
 
 ## Challenging Topics
--git/bash commands and order -f, -v, -b, push, pull
-- memorising terms and  implementing them in real world scenarios
+- Git/ Bash commands and order -f, -v, -b, push, pull.
+- Memorising terms and implementing them into real world scenarios.
 
 ## Steps taken to overcome challenges🧗🏾‍♀️
 - [x] Review previous Notes
