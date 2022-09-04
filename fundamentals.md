@@ -50,7 +50,7 @@ some examples of agile are: scrum, trello<!--fill this out with examples of fram
 explaining the difference between front-end(html,css,js) and back-end development (python,node.js,js)and examples
  
 ### Planning Poker
-consensus based agile estimating and planning technique
+consensus based agile estimating and planning technique <img src="https://www.mountaingoatsoftware.com/uploads/blog/poker-discussion.png" href="planning poker pic" width="300">
 
 ### Source Control
 tracking and making changes to source code, can be uused to make changes to original source code revert changes and resolve mistakes also referred to as version control revision control or source code managment
