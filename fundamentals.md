@@ -55,7 +55,7 @@ explaining the difference between front-end(html,css,js) and back-end developmen
 
 ### Source Control
 Tracking and making changes to source code, can be uused to make changes to original source code revert changes and resolve mistakes also referred to as version control revision control or source code managment.
--->
+
 
 ## Command Line and Git(hub)
 Command line is a user interface that is navigated by typing command at prompts instead of a mouse.
