@@ -41,7 +41,7 @@ During this sub-module I learned the importance of clear concise steps this help
 requires change       | avoids change
 team without pm       | requires pm
 
-some examples of agile are: scrum, <!--fill this out with examples of frameworks-->
+some examples of agile are: scrum, trello<!--fill this out with examples of frameworks-->
 
 ## Developer roles and their differences
  learned about different areas of software development software engineering,  web development, devops engineer, mobile application, desktop development
@@ -49,16 +49,16 @@ some examples of agile are: scrum, <!--fill this out with examples of frameworks
 
 explaining the difference between front-end(html,css,js) and back-end development (python,node.js,js)and examples
  
-### planning poker
+### Planning Poker
 consensus based agile estimating and planning technique
 
-### source control
+### Source Control
 tracking and making changes to source code, can be uused to make changes to original source code revert changes and resolve mistakes also referred to as version control revision control or source code managment
 -->
 
 ## Command Line and Git(hub)
 command line is a user interface that is navigated by typing command at prompts instead of a mouse.
- ##### git vs github
+ #### git vs github
  
 - so far i am aware of different command line instructions in order to carry out certian functions 
 with git i am aware of the functions git command  init add merge pull help
