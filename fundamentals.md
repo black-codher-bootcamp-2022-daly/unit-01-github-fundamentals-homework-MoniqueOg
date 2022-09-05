@@ -42,6 +42,9 @@ requires change       | avoids change
 team without pm       | requires pm
 
 some examples of agile are: scrum, trello<!--fill this out with examples of frameworks-->
+### Planning Poker
+ <img src="https://www.mountaingoatsoftware.com/uploads/blog/poker-discussion.png" href="planning poker pic" width="200">
+ Consensus based agile estimating and planning technique.
 
 ## Developer roles and their differences
  learned about different areas of software development software engineering,  web development, devops engineer, mobile application, desktop development
@@ -49,13 +52,8 @@ some examples of agile are: scrum, trello<!--fill this out with examples of fram
 
 explaining the difference between front-end(html,css,js) and back-end development (python,node.js,js)and examples
  
-### Planning Poker
- <img src="https://www.mountaingoatsoftware.com/uploads/blog/poker-discussion.png" href="planning poker pic" width="200">
- Consensus based agile estimating and planning technique.
-
 ### Source Control
 Tracking and making changes to source code, can be uused to make changes to original source code revert changes and resolve mistakes also referred to as version control revision control or source code managment.
-
 
 ## Command Line and Git(hub)
 Command line is a user interface that is navigated by typing command at prompts instead of a mouse.
@@ -64,11 +62,13 @@ Command line is a user interface that is navigated by typing command at prompts 
 - so far i am aware of different command line instructions in order to carry out certian functions 
 with git i am aware of the functions git command  init add merge pull help
 git 
+=======
+- collaberative vs individual
 - offline and online 
 - learned different types of local and global
 
 ## Challenging Topics
-- Git/ Bash commands and order -f, -v, -b, push, pull.
+- Git/ Bash commands and order -f, -v, -b, push, pull, merge
 - Memorising terms and implementing them into real world scenarios.
 
 ## Steps taken to overcome challenges🧗🏾‍♀️
