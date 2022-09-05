@@ -58,10 +58,13 @@ Tracking and making changes to source code, can be uused to make changes to orig
 ## Command Line and Git(hub)
 Command line is a user interface that is navigated by typing command at prompts instead of a mouse.
  #### git vs github
+ 
+- so far i am aware of different command line instructions in order to carry out certian functions 
+with git i am aware of the functions git command  init add merge pull help
+git 
+=======
 - collaberative vs individual
-
 - offline and online 
-
 - learned different types of local and global
 
 ## Challenging Topics
