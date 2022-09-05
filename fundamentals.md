@@ -85,4 +85,4 @@ Command line is a user interface that is navigated by typing command at prompts 
 [^2]: https://learning.blackcodher.tech/courses/full-stack-developer/lessons
 [^3]: https://emojis.wiki/ <!--for brown tone-->
 [^4]: https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md
-[^5]: https://gist.github.com/uupaa/f77d2bcf4dc7a294d109
+[^5]: https://gist.github.com/uupaa/f77d2bcf4dc7a294d109 
