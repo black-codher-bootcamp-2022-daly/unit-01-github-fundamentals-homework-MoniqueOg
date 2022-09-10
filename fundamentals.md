@@ -12,12 +12,12 @@ During the first Empowerment evening I learnt new termonology such as 'Blue Pill
 ### Windows Technical set up and tools 🛠️
 configured linux, syncing wsl visual studio 
 
-### The [Agile Manifesto](https://agilemanifesto.org/principles.html)
+### The [Agile Manifesto💡](https://agilemanifesto.org/principles.html)
 These are 12 principles that can be summarised into 4 values these are:
-- Individuals and interactions over processes and tools 
-- working software over comprehensive documentation
-- Customer collaberation over contracted negotiations
-- Responding to change over following a plan
+- Individuals and interactions over processes and tools.
+- Working software over comprehensive documentation.
+- Customer collaberation over contracted negotiations.
+- Responding to change over following a plan.
 
 ### How to make toast?  🍞 
 During this sub-module I learned the importance of clear concise steps this helped me to understand the 5 steps of a Software Development Life Cycle(SDLC):
