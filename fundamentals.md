@@ -5,12 +5,10 @@
 
 <img src="https://pbs.twimg.com/media/FXDvWHDWYAAKj2a?format=jpg&name=large" href="picture tiwa and her book" width="150"> <img src="https://media-exp1.licdn.com/dms/image/C4E22AQEhH8ZESVfkhQ/feedshare-shrink_1280/0/1661474729214?e=1664409600&v=beta&t=I0mf3dvrrrllhoa5kibjrW-YeQn49ShBAtgOc3HZsVI" href="empoverment evening pic" width="300">
 
-
-
-During the first Empowerment evening I learnt new termonology such as 'Blue Pill' and '' this in person event was particulaly impactful on me as I was able to meet mentors, other students and people on paths different to mine. During the meeting listening to Tiwa, Author of the book "Confident and Killing it" a practical guide to overcoming fear and unlocking potential; as someone who suffers from severe anxiety hearing her story in particular helped me realise mindset changes your whole perception as she spoke about comfidence and manifestation using worded moodboards.<!-- inspiring story about another speaker who spoke about coming from low income background becoming an entrepreneur of a successful business-->
+During the first Empowerment evening I learnt new termonology such as 'Blue Pill' and '' this in person event was particulaly impactful on me as I was able to meet mentors, other students and people on paths different to mine. During the meeting listening to Tiwa, Author of the book "Confident and Killing it" a practical guide to overcoming fear and unlocking potential; as someone who suffers from severe anxiety hearing her story in particular helped me realise mindset changes your whole perception as she spoke about confidence and manifestation using worded moodboards.<!-- inspiring story about another speaker who spoke about coming from low income background to becoming an entrepreneur of a successful business-->
 
 ### Windows Technical set up and tools 🛠️
-configured linux, syncing wsl visual studio 
+configured linux, syncing wsl to visual studio 
 
 ### The [Agile Manifesto💡](https://agilemanifesto.org/principles.html)
 These are 12 principles that can be summarised into 4 values these are:
@@ -20,7 +18,7 @@ These are 12 principles that can be summarised into 4 values these are:
 - Responding to change over following a plan.
 
 ### How to make toast?  🍞 
-During this sub-module I learned the importance of clear concise steps this helped me to understand the 5 steps of a Software Development Life Cycle(SDLC):
+During this sub-module I learned the importance of clear concise steps this helped me to understand the 5 steps of a **Software Development Life Cycle(SDLC)**:
 > 1. Planning
 >> 2. Analysis
 >>> 3. Design
@@ -28,48 +26,56 @@ During this sub-module I learned the importance of clear concise steps this help
 >>>>> 5. Maintenence
 >>>>>> 6. Testing and Intergration <!--write definitions-->
  
- #### (SDLC) Pros
+ #### SDLC Pros🌟
 - lowers costs 
 - improve quality
 - shortening timelines 
 - help developers understand project scope
 
-#### Types of (SDLC) Methodologies
+#### Types of SDLC Methodologies
 
   Agile 🔂   | Waterfall 🌊
 ------------- | -------------
 requires change       | avoids change
 team without pm       | requires pm
 
-some examples of agile are: scrum, trello<!--fill this out with examples of frameworks-->
+some examples of agile are: scrum, trello etc.<!--fill this out with examples of frameworks-->
 ### Planning Poker
  <img src="https://www.mountaingoatsoftware.com/uploads/blog/poker-discussion.png" href="planning poker pic" width="200">
  Consensus based agile estimating and planning technique.
 
-## Developer roles and their differences
- learned about different areas of software development software engineering,  web development, devops engineer, mobile application, desktop development
-<!--change format and wording to look neat -->
+## Developer career paths and their differences
+- Software developer _designs software and applications that helps users execute specific functions and tasks._
+- Web developer _creating websites for organizations and individuals._
+- Back-end developer _works on the back end of software, applications, programs and systems._
+- Front-end developer _works on the user side of an application, program, system or software._
+- Full-stack developer _works on both the front end and back end of applications._
+-  Game developer _someone who works in video games._
 
-explaining the difference between front-end(html,css,js) and back-end development (python,node.js,js)and examples
- 
 ### Source Control
-Tracking and making changes to source code, can be uused to make changes to original source code revert changes and resolve mistakes also referred to as version control revision control or source code managment.
+Tracking and making changes to source code, can be used to make changes to original source code revert changes and resolve mistakes also referred to as version control revision control or source code managment.
 
 ## Command Line and Git(hub)
 Command line is a user interface that is navigated by typing command at prompts instead of a mouse.
- #### git vs github
- 
-- so far i am aware of different command line instructions in order to carry out certian functions 
-with git i am aware of the functions git command  init add merge pull help
-git 
+-Terms I've learnt from commandline
+- `touch` newfile.txt, create a new file
+-  `cd` create place 
+-  `rm` dir remove directory
+-  `mk` dir make a directory
+-  `pwd` print directory pathway
+-  `ls`list directory contents<!--add terms and definitions improve format-->
 
-- collaberative vs individual
-- offline and online 
-- learned different types of local and global
+ #### Git vs GitHub🐙🐱
+  Git   | Github
+------------- | -------------
+individual | collaberative
+offline  | online
+local    | global
 
 ## Challenging Topics
-- Git/ Bash commands and order -f, -v, -b, push, pull, merge
+- Git/ Bash commands and their order: `clone` `push` `pull` `merge`
 - Memorising terms and implementing them into real world scenarios.
+..however I am dedicated and commited to understanding.
 
 ## Steps taken to overcome challenges🧗🏾‍♀️
 - [x] Review previous Notes
