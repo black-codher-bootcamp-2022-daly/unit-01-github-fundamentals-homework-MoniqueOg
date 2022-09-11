@@ -10,7 +10,7 @@ During the first Empowerment evening I learnt new termonology such as 'Blue Pill
 ### Windows Technical set up and tools 🛠️
 configured linux, syncing wsl to visual studio 
 
-### The [Agile Manifesto💡](https://agilemanifesto.org/principles.html)
+### [Agile Manifesto💡](https://agilemanifesto.org/principles.html)
 These are 12 principles that can be summarised into 4 values these are:
 - Individuals and interactions over processes and tools.
 - Working software over comprehensive documentation.
@@ -45,12 +45,12 @@ some examples of agile are: scrum, trello etc.<!--fill this out with examples of
  Consensus based agile estimating and planning technique.
 
 ## Developer career paths and their differences
-- Software developer _designs software and applications that helps users execute specific functions and tasks._
-- Web developer _creating websites for organizations and individuals._
-- Back-end developer _works on the back end of software, applications, programs and systems._
-- Front-end developer _works on the user side of an application, program, system or software._
-- Full-stack developer _works on both the front end and back end of applications._
--  Game developer _someone who works in video games._
+- Software developer - _designs software and applications that helps users execute specific functions and tasks._
+- Web developer - _creating websites for organizations and individuals._
+- Back-end developer - _works on the back end of software, applications, programs and systems._
+- Front-end developer - _works on the user side of an application, program, system or software._
+- Full-stack developer - _works on both the front end and back end of applications._
+-  Game developer - _someone who works in video games._
 
 ### Source Control
 Tracking and making changes to source code, can be used to make changes to original source code revert changes and resolve mistakes also referred to as version control revision control or source code managment.
