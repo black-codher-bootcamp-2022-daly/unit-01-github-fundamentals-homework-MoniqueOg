@@ -17,7 +17,7 @@ These are 12 principles that can be summarised into 4 values these are:
 - Customer collaberation over contracted negotiations.
 - Responding to change over following a plan.
 
-### How to make toast?  🍞 
+### How to make toast?[🍞](https://jamboard.google.com/d/1jofsSGmPHYJUExbtgCKAk0Ao6BOz3wKFV2l0J2Jzek8/viewer?f=0)
 During this sub-module I learned the importance of clear concise steps this helped me to understand the 5 steps of a **Software Development Life Cycle(SDLC)**:
 > 1. Planning
 >> 2. Analysis
@@ -75,7 +75,7 @@ local    | global
 ## Challenging Topics
 - Git/ Bash commands and their order: `clone` `push` `pull` `merge`
 - Memorising terms and implementing them into real world scenarios.
-..however I am dedicated and commited to understanding.
+_..however am dedicated and commited to understanding._
 
 ## Steps taken to overcome challenges🧗🏾‍♀️
 - [x] Review previous Notes
