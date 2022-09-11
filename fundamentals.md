@@ -52,7 +52,7 @@ some examples of agile are: scrum, trello etc.<!--fill this out with examples of
 - Full-stack developer - _works on both the front end and back end of applications._
 -  Game developer - _someone who works in video games._
 
-### Source Control
+### Source Control ➡️
 Tracking and making changes to source code, can be used to make changes to original source code revert changes and resolve mistakes also referred to as version control revision control or source code managment.
 
 ## Command Line and Git(hub)
