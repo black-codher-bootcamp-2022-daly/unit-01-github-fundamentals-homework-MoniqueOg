@@ -18,13 +18,13 @@ These are 12 principles that can be summarised into 4 values these are:
 - Responding to change over following a plan.
 
 ### How to make toast?[🍞](https://jamboard.google.com/d/1jofsSGmPHYJUExbtgCKAk0Ao6BOz3wKFV2l0J2Jzek8/viewer?f=0)
-During this sub-module I learned the importance of clear concise steps this helped me to understand the 5 steps of a **Software Development Life Cycle(SDLC)**:
-> 1. Planning
->> 2. Analysis
->>> 3. Design
->>>> 4. Implementation
->>>>> 5. Maintenence
->>>>>> 6. Testing and Intergration <!--write definitions-->
+During this sub-module I learned the importance of clear concise steps this helped me to understand the 5 steps of a **(SDLC) Software Development Life Cycle**:
+> 1. Planning _- work out the approach and how feasible the project will be._
+>> 2. Analysis _- defining and documenting project requirements to be approved by the customer._
+>>> 3. Design _- specifications include architecture diagrams which can be both high and low level to communicate the ideas between modules and third party systems._
+>>>> 4. Implementation _- this includes (TDD) Test Driven Development methodology combining testing steps TTD code is created and code is written to pass specification details._
+>>>>> 5. Testing and Intergration _- most critical stage which helps identify a lot of bugs and errors before the deployment phase._
+>>>>>> 6. Maintenence _- this occurs when the product is in full operation, this can involve making changes to hardware, software, documentation to support its operational effectiveness._
  
  #### SDLC Pros🌟
 - lowers costs 
@@ -39,7 +39,7 @@ During this sub-module I learned the importance of clear concise steps this help
 requires change       | avoids change
 team without pm       | requires pm
 
-some examples of agile are: scrum, trello etc.<!--fill this out with examples of frameworks-->
+Some examples of agile are: scrum, trello etc.<!--fill this out with examples of frameworks-->
 ### Planning Poker
  <img src="https://www.mountaingoatsoftware.com/uploads/blog/poker-discussion.png" href="planning poker pic" width="200">
  Consensus based agile estimating and planning technique.
